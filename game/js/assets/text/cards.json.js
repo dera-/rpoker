@@ -1,0 +1,1 @@
+window.gLocalAssetContainer["cards"] = "# Deck card faces%0A純%0A愛%0A大%0A高%0A中%0A小%0A幼%0A学%0A生%0A女%0A子%0A娘%0A嬢%0A妻%0A美%0A姉%0A妹%0A義%0A巨%0A貧%0A乳%0A尻%0A手%0A足%0A腋%0A出%0A処%0A短%0A長%0A黒%0A茶%0A金%0A髪%0A無%0A剛%0A毛%0A眼鏡%0A痴%0A洋%0A和%0A出%0Aﾛﾘ%0Aｷﾞｬﾙ%0Aﾂﾝ%0Aﾃﾞﾚ%0Aｺｷ%0AH%0AP%0A龍%0A道%0A島%0A風%0A君%0A会%0A銀%0A髪%0A褐%0A色%0A爆%0A乳%0Aｴﾙﾌ%0A耳%0Aﾏﾏ%0Aﾒｽ%0Aｶﾞｷ%0A"

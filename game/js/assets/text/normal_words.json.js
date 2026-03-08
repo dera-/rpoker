@@ -1,0 +1,1 @@
+window.gLocalAssetContainer["normalWords"] = "# Normal dictionary words constructible from the card set%0A大学%0A中学%0A小学%0A学会%0A学長%0A学生%0A学生会%0A大会%0A中道%0A大道%0A出生%0A処女%0A女学生%0A中学生%0A小学生%0A大学生%0A女子学生%0A中高生%0A小中学生%0A生娘%0A愛妻%0A愛娘%0A手足%0A出処%0A黒髪%0A茶髪%0A金髪%0A銀髪%0A長髪%0A短髪%0A長毛%0A短毛%0A美髪%0A腋毛%0A和風%0A洋風%0A和洋%0A長女%0A長子%0A小耳%0A中耳%0A耳毛%0A黒色%0A茶色%0A金色%0A銀色%0A女色%0A"
