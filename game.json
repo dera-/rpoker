@@ -1,0 +1,78 @@
+{
+	"width": 1280,
+	"height": 720,
+	"fps": 30,
+	"main": "./script/_bootstrap.js",
+	"assets": {
+		"player": {
+			"type": "image",
+			"width": 32,
+			"height": 32,
+			"path": "image/player.png"
+		},
+		"shot": {
+			"type": "image",
+			"width": 16,
+			"height": 16,
+			"path": "image/shot.png"
+		},
+		"se": {
+			"type": "audio",
+			"path": "audio/se",
+			"systemId": "sound",
+			"duration": 250
+		},
+		"_bootstrap": {
+			"type": "script",
+			"path": "script/_bootstrap.js",
+			"global": true
+		},
+		"main": {
+			"type": "script",
+			"path": "script/main.js",
+			"global": true
+		},
+		"roleJudge": {
+			"type": "script",
+			"path": "script/roleJudge.js",
+			"global": true
+		},
+		"cards": {
+			"type": "text",
+			"path": "text/cards.txt"
+		},
+		"normalWords": {
+			"type": "text",
+			"path": "text/normal_words.txt"
+		},
+		"specialWords0": {
+			"type": "text",
+			"path": "text/special_words_0.txt"
+		},
+		"specialWords1": {
+			"type": "text",
+			"path": "text/special_words_1.txt"
+		},
+		"specialWords2": {
+			"type": "text",
+			"path": "text/special_words_2.txt"
+		},
+		"specialWords3": {
+			"type": "text",
+			"path": "text/special_words_3.txt"
+		},
+		"specialWords4": {
+			"type": "text",
+			"path": "text/special_words_4.txt"
+		}
+	},
+	"environment": {
+		"sandbox-runtime": "3",
+		"nicolive": {
+			"supportedModes": [
+				"ranking"
+			],
+			"preferredSessionParameters": {}
+		}
+	}
+}
